@@ -1,1 +1,1 @@
-# BAN-6440-Module-5-CancerANN
+This repository contains an end-to-end deep learning framework leveraging Artificial Neural Networks (ANNs) built via TensorFlow/Keras to assist radiologists in diagnosing malignant breast cancer lesions using digitized fine-needle aspirate (FNA) nuclear morphometric measurements.
